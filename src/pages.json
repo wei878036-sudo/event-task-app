@@ -1,0 +1,23 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "活动列表"
+			}
+		},
+		{
+			"path": "pages/event-detail/index",
+			"style": {
+				"navigationBarTitleText": "活动详情",
+				"navigationBarTransparent": true
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "活动应用",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F3F4F6"
+	}
+}
